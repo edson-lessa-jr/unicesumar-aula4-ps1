@@ -1,4 +1,4 @@
-package exemplo2;
+package exemplo3;
 
 import javax.swing.*;
 
